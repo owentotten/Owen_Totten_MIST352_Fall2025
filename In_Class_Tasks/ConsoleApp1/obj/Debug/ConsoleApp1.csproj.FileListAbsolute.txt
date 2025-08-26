@@ -1,0 +1,8 @@
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config

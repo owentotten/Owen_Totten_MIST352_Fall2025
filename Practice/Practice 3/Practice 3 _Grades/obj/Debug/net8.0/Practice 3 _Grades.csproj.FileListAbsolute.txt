@@ -1,0 +1,15 @@
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\bin\Debug\net8.0\Practice 3 _Grades.exe
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\bin\Debug\net8.0\Practice 3 _Grades.deps.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\bin\Debug\net8.0\Practice 3 _Grades.runtimeconfig.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\bin\Debug\net8.0\Practice 3 _Grades.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\bin\Debug\net8.0\Practice 3 _Grades.pdb
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\obj\Debug\net8.0\Practice 3 _Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\obj\Debug\net8.0\Practice 3 _Grades.AssemblyInfoInputs.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\obj\Debug\net8.0\Practice 3 _Grades.AssemblyInfo.cs
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\obj\Debug\net8.0\Practice 3 _Grades.csproj.CoreCompileInputs.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\obj\Debug\net8.0\Practice 3 _Grades.sourcelink.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\obj\Debug\net8.0\Practice 3 _Grades.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\obj\Debug\net8.0\refint\Practice 3 _Grades.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\obj\Debug\net8.0\Practice 3 _Grades.pdb
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\obj\Debug\net8.0\Practice 3 _Grades.genruntimeconfig.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice 3\Practice 3 _Grades\obj\Debug\net8.0\ref\Practice 3 _Grades.dll

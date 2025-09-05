@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\owent\\OneDrive - WV Department of Education\\Desktop\\MIST352_Fall20205\\Owen_Totten_MIST352_Fall2025\\Homework\\HW1\\HW1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC74C423-6595-4705-8F0F-B52BE4878B50}|HW1.csproj|c:\\users\\owent\\onedrive - wv department of education\\desktop\\mist352_fall20205\\owen_totten_mist352_fall2025\\homework\\hw1\\hw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC74C423-6595-4705-8F0F-B52BE4878B50}|HW1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\owent\\OneDrive - WV Department of Education\\Desktop\\MIST352_Fall20205\\Owen_Totten_MIST352_Fall2025\\Homework\\HW1\\HW1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\owent\\OneDrive - WV Department of Education\\Desktop\\MIST352_Fall20205\\Owen_Totten_MIST352_Fall2025\\Homework\\HW1\\HW1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T15:49:33.956Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

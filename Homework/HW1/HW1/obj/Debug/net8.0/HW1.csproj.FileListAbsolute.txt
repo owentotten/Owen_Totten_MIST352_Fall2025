@@ -1,0 +1,15 @@
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\obj\Debug\net8.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\obj\Debug\net8.0\HW1.AssemblyInfoInputs.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\obj\Debug\net8.0\HW1.AssemblyInfo.cs
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\obj\Debug\net8.0\HW1.csproj.CoreCompileInputs.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\obj\Debug\net8.0\HW1.sourcelink.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\bin\Debug\net8.0\HW1.exe
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\bin\Debug\net8.0\HW1.deps.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\bin\Debug\net8.0\HW1.runtimeconfig.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\bin\Debug\net8.0\HW1.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\bin\Debug\net8.0\HW1.pdb
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\obj\Debug\net8.0\HW1.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\obj\Debug\net8.0\refint\HW1.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\obj\Debug\net8.0\HW1.pdb
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\obj\Debug\net8.0\HW1.genruntimeconfig.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Homework\HW1\HW1\obj\Debug\net8.0\ref\HW1.dll

@@ -13,7 +13,8 @@
             string favoriteplace = Console.ReadLine();
             Console.WriteLine("What is youre lucky Number?");
             string luckynumber = Console.ReadLine();
-            heroname=heroname.Trim();
+            //Trim the input to remove any leading or trailing whitespace
+            heroname = heroname.Trim();
             favoriteplace=favoriteplace.Trim();
 
             // create strings for the output of the users data

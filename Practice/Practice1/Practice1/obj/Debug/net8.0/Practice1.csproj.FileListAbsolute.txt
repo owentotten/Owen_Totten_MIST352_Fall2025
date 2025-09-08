@@ -1,0 +1,5 @@
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice1\Practice1\obj\Debug\net8.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice1\Practice1\obj\Debug\net8.0\Practice1.AssemblyInfoInputs.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice1\Practice1\obj\Debug\net8.0\Practice1.AssemblyInfo.cs
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice1\Practice1\obj\Debug\net8.0\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice1\Practice1\obj\Debug\net8.0\Practice1.sourcelink.json

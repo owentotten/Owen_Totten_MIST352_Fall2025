@@ -1,0 +1,15 @@
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice4\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

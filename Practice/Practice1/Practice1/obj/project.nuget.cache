@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SHaHvCTyDs4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\owent\\OneDrive - WV Department of Education\\Desktop\\MIST352_Fall20205\\Owen_Totten_MIST352_Fall2025\\Practice\\Practice1\\Practice1\\Practice1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\owent\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.19\\microsoft.dotnet.ilcompiler.8.0.19.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.19\\microsoft.net.illink.tasks.8.0.19.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.19\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

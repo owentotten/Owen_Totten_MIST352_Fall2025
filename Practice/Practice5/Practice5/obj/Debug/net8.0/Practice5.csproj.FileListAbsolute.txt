@@ -1,0 +1,15 @@
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\bin\Debug\net8.0\Practice5.exe
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\bin\Debug\net8.0\Practice5.deps.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\bin\Debug\net8.0\Practice5.runtimeconfig.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\bin\Debug\net8.0\Practice5.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\bin\Debug\net8.0\Practice5.pdb
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\obj\Debug\net8.0\Practice5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\obj\Debug\net8.0\Practice5.AssemblyInfoInputs.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\obj\Debug\net8.0\Practice5.AssemblyInfo.cs
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\obj\Debug\net8.0\Practice5.csproj.CoreCompileInputs.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\obj\Debug\net8.0\Practice5.sourcelink.json
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\obj\Debug\net8.0\Practice5.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\obj\Debug\net8.0\refint\Practice5.dll
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\obj\Debug\net8.0\Practice5.pdb
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\obj\Debug\net8.0\Practice5.genruntimeconfig.cache
+C:\Users\owent\OneDrive - WV Department of Education\Desktop\MIST352_Fall20205\Owen_Totten_MIST352_Fall2025\Practice\Practice5\Practice5\obj\Debug\net8.0\ref\Practice5.dll

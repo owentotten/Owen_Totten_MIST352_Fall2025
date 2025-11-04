@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task6_GPT\\Task6_GPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29DEB75B-9CD8-4258-AC55-615056BAF607}|Task6_GPT.csproj|d:\\owen_totten_mist352_fall2025\\in_class_tasks\\task6_gpt\\task6_gpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DEB75B-9CD8-4258-AC55-615056BAF607}|Task6_GPT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DEB75B-9CD8-4258-AC55-615056BAF607}|Task6_GPT.csproj|d:\\owen_totten_mist352_fall2025\\in_class_tasks\\task6_gpt\\task6_gpt\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DEB75B-9CD8-4258-AC55-615056BAF607}|Task6_GPT.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DEB75B-9CD8-4258-AC55-615056BAF607}|Task6_GPT.csproj|d:\\owen_totten_mist352_fall2025\\in_class_tasks\\task6_gpt\\task6_gpt\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DEB75B-9CD8-4258-AC55-615056BAF607}|Task6_GPT.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DEB75B-9CD8-4258-AC55-615056BAF607}|Task6_GPT.csproj|d:\\owen_totten_mist352_fall2025\\in_class_tasks\\task6_gpt\\task6_gpt\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DEB75B-9CD8-4258-AC55-615056BAF607}|Task6_GPT.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task6_GPT\\Task6_GPT\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task6_GPT\\Task6_GPT\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:19:22.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task6_GPT\\Task6_GPT\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task6_GPT\\Task6_GPT\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:18:27.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task6_GPT\\Task6_GPT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task6_GPT\\Task6_GPT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAADGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:15:11.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task6_GPT\\Task6_GPT\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task6_GPT\\Task6_GPT\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA0wEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:17:34.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

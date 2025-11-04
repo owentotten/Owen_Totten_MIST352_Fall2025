@@ -1,0 +1,15 @@
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\bin\Debug\net8.0\Task6_GPT.exe
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\bin\Debug\net8.0\Task6_GPT.deps.json
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\bin\Debug\net8.0\Task6_GPT.runtimeconfig.json
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\bin\Debug\net8.0\Task6_GPT.dll
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\bin\Debug\net8.0\Task6_GPT.pdb
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\obj\Debug\net8.0\Task6_GPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\obj\Debug\net8.0\Task6_GPT.AssemblyInfoInputs.cache
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\obj\Debug\net8.0\Task6_GPT.AssemblyInfo.cs
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\obj\Debug\net8.0\Task6_GPT.csproj.CoreCompileInputs.cache
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\obj\Debug\net8.0\Task6_GPT.sourcelink.json
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\obj\Debug\net8.0\Task6_GPT.dll
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\obj\Debug\net8.0\refint\Task6_GPT.dll
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\obj\Debug\net8.0\Task6_GPT.pdb
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\obj\Debug\net8.0\Task6_GPT.genruntimeconfig.cache
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\Task6_GPT\obj\Debug\net8.0\ref\Task6_GPT.dll

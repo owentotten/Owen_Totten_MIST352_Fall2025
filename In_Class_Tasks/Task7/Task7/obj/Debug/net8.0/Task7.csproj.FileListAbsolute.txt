@@ -1,0 +1,15 @@
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\bin\Debug\net8.0\Task7.exe
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\bin\Debug\net8.0\Task7.deps.json
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\bin\Debug\net8.0\Task7.runtimeconfig.json
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\bin\Debug\net8.0\Task7.dll
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\bin\Debug\net8.0\Task7.pdb
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\obj\Debug\net8.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\obj\Debug\net8.0\Task7.AssemblyInfoInputs.cache
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\obj\Debug\net8.0\Task7.AssemblyInfo.cs
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\obj\Debug\net8.0\Task7.csproj.CoreCompileInputs.cache
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\obj\Debug\net8.0\Task7.sourcelink.json
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\obj\Debug\net8.0\Task7.dll
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\obj\Debug\net8.0\refint\Task7.dll
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\obj\Debug\net8.0\Task7.pdb
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\obj\Debug\net8.0\Task7.genruntimeconfig.cache
+D:\Owen_Totten_MIST352_Fall2025\In_Class_Tasks\Task7\Task7\obj\Debug\net8.0\ref\Task7.dll

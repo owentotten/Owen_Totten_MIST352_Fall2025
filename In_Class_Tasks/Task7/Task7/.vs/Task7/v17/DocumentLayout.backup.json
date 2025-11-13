@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task7\\Task7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE1E67C-214B-4EBD-998B-65DC07186087}|Task7.csproj|d:\\owen_totten_mist352_fall2025\\in_class_tasks\\task7\\task7\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE1E67C-214B-4EBD-998B-65DC07186087}|Task7.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE1E67C-214B-4EBD-998B-65DC07186087}|Task7.csproj|d:\\owen_totten_mist352_fall2025\\in_class_tasks\\task7\\task7\\teller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE1E67C-214B-4EBD-998B-65DC07186087}|Task7.csproj|solutionrelative:teller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE1E67C-214B-4EBD-998B-65DC07186087}|Task7.csproj|d:\\owen_totten_mist352_fall2025\\in_class_tasks\\task7\\task7\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE1E67C-214B-4EBD-998B-65DC07186087}|Task7.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE1E67C-214B-4EBD-998B-65DC07186087}|Task7.csproj|d:\\owen_totten_mist352_fall2025\\in_class_tasks\\task7\\task7\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE1E67C-214B-4EBD-998B-65DC07186087}|Task7.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE1E67C-214B-4EBD-998B-65DC07186087}|Task7.csproj|d:\\owen_totten_mist352_fall2025\\in_class_tasks\\task7\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE1E67C-214B-4EBD-998B-65DC07186087}|Task7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task7\\Task7\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task7\\Task7\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAxwHwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:44:39.137Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teller.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task7\\Task7\\Teller.cs",
+              "RelativeDocumentMoniker": "Teller.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task7\\Task7\\Teller.cs",
+              "RelativeToolTip": "Teller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:44:26.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task7\\Task7\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task7\\Task7\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:53:12.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task7\\Task7\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task7\\Task7\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:42:56.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task7\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\In_Class_Tasks\\Task7\\Task7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:42:40.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

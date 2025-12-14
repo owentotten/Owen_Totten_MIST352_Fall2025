@@ -1,0 +1,15 @@
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\bin\Debug\net8.0\HW3.exe
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\bin\Debug\net8.0\HW3.deps.json
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\bin\Debug\net8.0\HW3.runtimeconfig.json
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\bin\Debug\net8.0\HW3.dll
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\bin\Debug\net8.0\HW3.pdb
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\obj\Debug\net8.0\HW3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\obj\Debug\net8.0\HW3.AssemblyInfoInputs.cache
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\obj\Debug\net8.0\HW3.AssemblyInfo.cs
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\obj\Debug\net8.0\HW3.csproj.CoreCompileInputs.cache
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\obj\Debug\net8.0\HW3.sourcelink.json
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\obj\Debug\net8.0\HW3.dll
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\obj\Debug\net8.0\refint\HW3.dll
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\obj\Debug\net8.0\HW3.pdb
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\obj\Debug\net8.0\HW3.genruntimeconfig.cache
+D:\Owen_Totten_MIST352_Fall2025\Homework\HW3\HW3\obj\Debug\net8.0\ref\HW3.dll

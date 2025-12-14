@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Owen_Totten_MIST352_Fall2025\\Homework\\HW3\\HW3LLM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB700B4C-F039-4ADA-8AD8-7D04E003E838}|HW3LLM.csproj|d:\\owen_totten_mist352_fall2025\\homework\\hw3\\hw3llm\\sectiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB700B4C-F039-4ADA-8AD8-7D04E003E838}|HW3LLM.csproj|solutionrelative:sectiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB700B4C-F039-4ADA-8AD8-7D04E003E838}|HW3LLM.csproj|d:\\owen_totten_mist352_fall2025\\homework\\hw3\\hw3llm\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB700B4C-F039-4ADA-8AD8-7D04E003E838}|HW3LLM.csproj|solutionrelative:participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB700B4C-F039-4ADA-8AD8-7D04E003E838}|HW3LLM.csproj|d:\\owen_totten_mist352_fall2025\\homework\\hw3\\hw3llm\\workshopsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB700B4C-F039-4ADA-8AD8-7D04E003E838}|HW3LLM.csproj|solutionrelative:workshopsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB700B4C-F039-4ADA-8AD8-7D04E003E838}|HW3LLM.csproj|d:\\owen_totten_mist352_fall2025\\homework\\hw3\\hw3llm\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB700B4C-F039-4ADA-8AD8-7D04E003E838}|HW3LLM.csproj|solutionrelative:seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB700B4C-F039-4ADA-8AD8-7D04E003E838}|HW3LLM.csproj|d:\\owen_totten_mist352_fall2025\\homework\\hw3\\hw3llm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB700B4C-F039-4ADA-8AD8-7D04E003E838}|HW3LLM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\Homework\\HW3\\HW3LLM\\Seat.cs",
+              "RelativeDocumentMoniker": "Seat.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\Homework\\HW3\\HW3LLM\\Seat.cs",
+              "RelativeToolTip": "Seat.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:42:43.999Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SectionType.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\Homework\\HW3\\HW3LLM\\SectionType.cs",
+              "RelativeDocumentMoniker": "SectionType.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\Homework\\HW3\\HW3LLM\\SectionType.cs",
+              "RelativeToolTip": "SectionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:45:26.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\Homework\\HW3\\HW3LLM\\Participant.cs",
+              "RelativeDocumentMoniker": "Participant.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\Homework\\HW3\\HW3LLM\\Participant.cs",
+              "RelativeToolTip": "Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:44:32.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkshopSession.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\Homework\\HW3\\HW3LLM\\WorkshopSession.cs",
+              "RelativeDocumentMoniker": "WorkshopSession.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\Homework\\HW3\\HW3LLM\\WorkshopSession.cs",
+              "RelativeToolTip": "WorkshopSession.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA+wDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:43:29.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Owen_Totten_MIST352_Fall2025\\Homework\\HW3\\HW3LLM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Owen_Totten_MIST352_Fall2025\\Homework\\HW3\\HW3LLM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAIwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:37:08.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
